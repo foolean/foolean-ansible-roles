@@ -13,3 +13,6 @@
 [submodule "auditd"]
 	path = auditd
 	url = https://github.com/foolean/ansible-role-auditd.git
+[submodule "autofs"]
+	path = autofs
+	url = https://github.com/foolean/ansible-role-autofs.git
