@@ -127,3 +127,6 @@
 [submodule "snmp"]
 	path = snmp
 	url = https://github.com/foolean/ansible-role-snmp.git
+[submodule "squashfs"]
+	path = squashfs
+	url = https://github.com/foolean/ansible-role-squashfs.git
