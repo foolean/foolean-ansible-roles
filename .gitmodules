@@ -4,3 +4,6 @@
 [submodule "apache2"]
 	path = apache2
 	url = https://github.com/foolean/ansible-role-apache2.git
+[submodule "apparmor"]
+	path = apparmor
+	url = https://github.com/foolean/ansible-role-apparmor.git
