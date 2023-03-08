@@ -91,3 +91,6 @@
 [submodule "nis"]
 	path = nis
 	url = https://github.com/foolean/ansible-role-nis.git
+[submodule "pam"]
+	path = pam
+	url = https://github.com/foolean/ansible-role-pam.git
