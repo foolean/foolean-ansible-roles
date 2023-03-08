@@ -28,3 +28,6 @@
 [submodule "bootloader"]
 	path = bootloader
 	url = https://github.com/foolean/ansible-role-bootloader.git
+[submodule "chrony"]
+	path = chrony
+	url = https://github.com/foolean/ansible-role-chrony.git
