@@ -118,3 +118,6 @@
 [submodule "samba"]
 	path = samba
 	url = https://github.com/foolean/ansible-role-samba.git
+[submodule "screen"]
+	path = screen
+	url = https://github.com/foolean/ansible-role-screen.git
