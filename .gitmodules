@@ -37,3 +37,6 @@
 [submodule "cron"]
 	path = cron
 	url = https://github.com/foolean/ansible-role-cron.git
+[submodule "cups"]
+	path = cups
+	url = https://github.com/foolean/ansible-role-cups.git
