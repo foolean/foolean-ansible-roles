@@ -88,3 +88,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/foolean/ansible-role-nginx.git
+[submodule "nis"]
+	path = nis
+	url = https://github.com/foolean/ansible-role-nis.git
