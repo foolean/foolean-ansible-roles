@@ -160,3 +160,6 @@
 [submodule "udf"]
 	path = udf
 	url = https://github.com/foolean/ansible-role-udf.git
+[submodule "ufw"]
+	path = ufw
+	url = https://github.com/foolean/ansible-role-ufw.git
