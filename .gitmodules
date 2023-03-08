@@ -25,3 +25,6 @@
 [submodule "bash"]
 	path = bash
 	url = https://github.com/foolean/ansible-role-bash.git
+[submodule "bootloader"]
+	path = bootloader
+	url = https://github.com/foolean/ansible-role-bootloader.git
