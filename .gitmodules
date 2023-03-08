@@ -166,3 +166,6 @@
 [submodule "usb"]
 	path = usb
 	url = https://github.com/foolean/ansible-role-usb.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/foolean/ansible-role-utils.git
