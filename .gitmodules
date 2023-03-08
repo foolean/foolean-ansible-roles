@@ -112,3 +112,6 @@
 [submodule "rsync"]
 	path = rsync
 	url = https://github.com/foolean/ansible-role-rsync.git
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/foolean/ansible-role-rsyslog.git
