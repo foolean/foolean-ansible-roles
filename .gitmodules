@@ -43,3 +43,6 @@
 [submodule "cyrusimap"]
 	path = cyrusimap
 	url = https://github.com/foolean/ansible-role-cyrusimap.git
+[submodule "debian"]
+	path = debian
+	url = https://github.com/foolean/ansible-role-debian.git
