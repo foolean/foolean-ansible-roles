@@ -19,3 +19,6 @@
 [submodule "avahi"]
 	path = avahi
 	url = https://github.com/foolean/ansible-role-avahi.git
+[submodule "banner"]
+	path = banner
+	url = https://github.com/foolean/ansible-role-banner.git
