@@ -34,3 +34,6 @@
 [submodule "cramfs"]
 	path = cramfs
 	url = https://github.com/foolean/ansible-role-cramfs.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/foolean/ansible-role-cron.git
