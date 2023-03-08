@@ -130,3 +130,6 @@
 [submodule "squashfs"]
 	path = squashfs
 	url = https://github.com/foolean/ansible-role-squashfs.git
+[submodule "squid"]
+	path = squid
+	url = https://github.com/foolean/ansible-role-squid.git
