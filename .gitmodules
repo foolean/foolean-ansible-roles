@@ -121,3 +121,6 @@
 [submodule "screen"]
 	path = screen
 	url = https://github.com/foolean/ansible-role-screen.git
+[submodule "selinux"]
+	path = selinux
+	url = https://github.com/foolean/ansible-role-selinux.git
