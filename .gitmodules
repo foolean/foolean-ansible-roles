@@ -100,3 +100,6 @@
 [submodule "proftp"]
 	path = proftp
 	url = https://github.com/foolean/ansible-role-proftp.git
+[submodule "redhat"]
+	path = redhat
+	url = https://github.com/foolean/ansible-role-redhat.git
