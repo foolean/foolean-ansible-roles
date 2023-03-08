@@ -172,3 +172,6 @@
 [submodule "xinetd"]
 	path = xinetd
 	url = https://github.com/foolean/ansible-role-xinetd.git
+[submodule "xserver"]
+	path = xserver
+	url = https://github.com/foolean/ansible-role-xserver.git
