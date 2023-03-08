@@ -97,3 +97,6 @@
 [submodule "postfix"]
 	path = postfix
 	url = https://github.com/foolean/ansible-role-postfix.git
+[submodule "proftp"]
+	path = proftp
+	url = https://github.com/foolean/ansible-role-proftp.git
