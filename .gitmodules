@@ -22,3 +22,6 @@
 [submodule "banner"]
 	path = banner
 	url = https://github.com/foolean/ansible-role-banner.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/foolean/ansible-role-bash.git
