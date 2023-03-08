@@ -154,3 +154,6 @@
 [submodule "telnet"]
 	path = telnet
 	url = https://github.com/foolean/ansible-role-telnet.git
+[submodule "tftp"]
+	path = tftp
+	url = https://github.com/foolean/ansible-role-tftp.git
