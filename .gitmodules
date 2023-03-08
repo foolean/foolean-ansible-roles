@@ -85,3 +85,6 @@
 [submodule "nfs"]
 	path = nfs
 	url = https://github.com/foolean/ansible-role-nfs.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/foolean/ansible-role-nginx.git
