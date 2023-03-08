@@ -55,3 +55,6 @@
 [submodule "dovecot"]
 	path = dovecot
 	url = https://github.com/foolean/ansible-role-dovecot.git
+[submodule "etckeeper"]
+	path = etckeeper
+	url = https://github.com/foolean/ansible-role-etckeeper.git
