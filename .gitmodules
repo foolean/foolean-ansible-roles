@@ -76,3 +76,6 @@
 [submodule "logindefs"]
 	path = logindefs
 	url = https://github.com/foolean/ansible-role-logindefs.git
+[submodule "mounts"]
+	path = mounts
+	url = https://github.com/foolean/ansible-role-mounts.git
