@@ -106,3 +106,6 @@
 [submodule "root"]
 	path = root
 	url = https://github.com/foolean/ansible-role-root.git
+[submodule "rsh"]
+	path = rsh
+	url = https://github.com/foolean/ansible-role-rsh.git
