@@ -109,3 +109,6 @@
 [submodule "rsh"]
 	path = rsh
 	url = https://github.com/foolean/ansible-role-rsh.git
+[submodule "rsync"]
+	path = rsync
+	url = https://github.com/foolean/ansible-role-rsync.git
