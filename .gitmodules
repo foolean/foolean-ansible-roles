@@ -70,3 +70,6 @@
 [submodule "ldap"]
 	path = ldap
 	url = https://github.com/foolean/ansible-role-ldap.git
+[submodule "limits"]
+	path = limits
+	url = https://github.com/foolean/ansible-role-limits.git
