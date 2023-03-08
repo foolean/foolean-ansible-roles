@@ -145,3 +145,6 @@
 [submodule "system"]
 	path = system
 	url = https://github.com/foolean/ansible-role-system.git
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/foolean/ansible-role-systemd.git
