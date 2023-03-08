@@ -157,3 +157,6 @@
 [submodule "tftp"]
 	path = tftp
 	url = https://github.com/foolean/ansible-role-tftp.git
+[submodule "udf"]
+	path = udf
+	url = https://github.com/foolean/ansible-role-udf.git
