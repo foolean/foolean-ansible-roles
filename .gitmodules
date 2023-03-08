@@ -7,3 +7,6 @@
 [submodule "apparmor"]
 	path = apparmor
 	url = https://github.com/foolean/ansible-role-apparmor.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/foolean/ansible-role-apt.git
