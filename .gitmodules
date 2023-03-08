@@ -163,3 +163,6 @@
 [submodule "ufw"]
 	path = ufw
 	url = https://github.com/foolean/ansible-role-ufw.git
+[submodule "usb"]
+	path = usb
+	url = https://github.com/foolean/ansible-role-usb.git
