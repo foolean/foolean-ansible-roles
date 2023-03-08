@@ -1,0 +1,3 @@
+[submodule "aide"]
+	path = aide
+	url = https://github.com/foolean/ansible-role-aide.git
