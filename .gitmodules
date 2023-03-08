@@ -64,3 +64,6 @@
 [submodule "ftp"]
 	path = ftp
 	url = https://github.com/foolean/ansible-role-ftp.git
+[submodule "gnome"]
+	path = gnome
+	url = https://github.com/foolean/ansible-role-gnome.git
