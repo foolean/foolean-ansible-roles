@@ -58,3 +58,6 @@
 [submodule "etckeeper"]
 	path = etckeeper
 	url = https://github.com/foolean/ansible-role-etckeeper.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/foolean/ansible-role-firewall.git
