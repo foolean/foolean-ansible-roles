@@ -67,3 +67,6 @@
 [submodule "gnome"]
 	path = gnome
 	url = https://github.com/foolean/ansible-role-gnome.git
+[submodule "ldap"]
+	path = ldap
+	url = https://github.com/foolean/ansible-role-ldap.git
