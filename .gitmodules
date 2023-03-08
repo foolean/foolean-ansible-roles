@@ -82,3 +82,6 @@
 [submodule "network"]
 	path = network
 	url = https://github.com/foolean/ansible-role-network.git
+[submodule "nfs"]
+	path = nfs
+	url = https://github.com/foolean/ansible-role-nfs.git
