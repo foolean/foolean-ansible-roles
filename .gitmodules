@@ -16,3 +16,6 @@
 [submodule "autofs"]
 	path = autofs
 	url = https://github.com/foolean/ansible-role-autofs.git
+[submodule "avahi"]
+	path = avahi
+	url = https://github.com/foolean/ansible-role-avahi.git
