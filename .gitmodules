@@ -133,3 +133,6 @@
 [submodule "squid"]
 	path = squid
 	url = https://github.com/foolean/ansible-role-squid.git
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/foolean/ansible-role-ssh.git
