@@ -40,3 +40,6 @@
 [submodule "cups"]
 	path = cups
 	url = https://github.com/foolean/ansible-role-cups.git
+[submodule "cyrusimap"]
+	path = cyrusimap
+	url = https://github.com/foolean/ansible-role-cyrusimap.git
