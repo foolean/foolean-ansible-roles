@@ -73,3 +73,6 @@
 [submodule "limits"]
 	path = limits
 	url = https://github.com/foolean/ansible-role-limits.git
+[submodule "logindefs"]
+	path = logindefs
+	url = https://github.com/foolean/ansible-role-logindefs.git
