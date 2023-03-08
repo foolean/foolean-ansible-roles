@@ -139,3 +139,6 @@
 [submodule "sudo"]
 	path = sudo
 	url = https://github.com/foolean/ansible-role-sudo.git
+[submodule "sysctl"]
+	path = sysctl
+	url = https://github.com/foolean/ansible-role-sysctl.git
