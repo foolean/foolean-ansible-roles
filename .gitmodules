@@ -151,3 +151,6 @@
 [submodule "talk"]
 	path = talk
 	url = https://github.com/foolean/ansible-role-talk.git
+[submodule "telnet"]
+	path = telnet
+	url = https://github.com/foolean/ansible-role-telnet.git
