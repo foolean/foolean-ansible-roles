@@ -124,3 +124,6 @@
 [submodule "selinux"]
 	path = selinux
 	url = https://github.com/foolean/ansible-role-selinux.git
+[submodule "snmp"]
+	path = snmp
+	url = https://github.com/foolean/ansible-role-snmp.git
