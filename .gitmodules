@@ -148,3 +148,6 @@
 [submodule "systemd"]
 	path = systemd
 	url = https://github.com/foolean/ansible-role-systemd.git
+[submodule "talk"]
+	path = talk
+	url = https://github.com/foolean/ansible-role-talk.git
