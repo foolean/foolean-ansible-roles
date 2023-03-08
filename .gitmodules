@@ -46,3 +46,6 @@
 [submodule "debian"]
 	path = debian
 	url = https://github.com/foolean/ansible-role-debian.git
+[submodule "dhcp"]
+	path = dhcp
+	url = https://github.com/foolean/ansible-role-dhcp.git
