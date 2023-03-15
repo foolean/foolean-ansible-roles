@@ -175,3 +175,6 @@
 [submodule "xserver"]
 	path = xserver
 	url = https://github.com/foolean/ansible-role-xserver.git
+[submodule "kodi"]
+	path = kodi
+	url = https://github.com/foolean/ansible-role-kodi.git
